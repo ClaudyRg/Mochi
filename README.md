@@ -1,5 +1,5 @@
 # 🍡 Mochii (The Intelligent Dynamic Notch)
-### *Next-Generation Fluid Notch Overlay & Desktop Companion for Windows 11*
+### *Next-Generation Fluid Notch Overlay & Desktop Companion for Windows 11* - *Currently doing a full migration to Rust.*
 
 <div align="center">
   <h1>✨ MOCHII v1.2.1 ✨</h1>
